@@ -1,0 +1,109 @@
+		#bod {
+			background-color: lightblue;
+
+
+		}
+
+		#nombreCV {
+			text-align: center;
+		}
+
+
+		.claseBoton 
+		{
+			background-color: pink;
+			border: none;
+			color:blue;			
+			padding: 10px;
+			display: inline-block;
+			box-shadow: 5px 5px 5px grey;
+			margin: 5px;
+						
+		}
+
+		
+		#head1 {
+			text-align: center;
+			text-decoration: underline;
+			text-decoration-color: blue;
+		}
+		#head2 {
+			vertical-align: top;
+			height: 200px;
+			width:200px;
+			margin: 10px;
+			border:solid red 20px;
+			display: block;
+			float: left;
+			margin-left: 20px;
+			margin-right: auto;
+			margin-bottom:auto; ;
+			box-shadow: 5px 5px 5px grey;
+			
+
+		}
+		.clase {
+			text-align: left;
+			margin-left: 25%;
+			margin-right: 5%;
+		}
+
+		nav {
+			text-align: center;
+		}
+
+		#formulario {
+			background-color: pink;
+			width: 30%;
+			margin: 2px;
+			padding-bottom: 10px;
+			padding-top: 10px;
+			border: solid 1px blue;
+			margin-right: auto;
+			margin-left: auto;
+			display: block;
+			box-shadow: 2px 2px 1px grey;
+
+
+		}
+
+		.boton {
+			background-color: pink;
+			width: 45%;
+			color:#000;
+			text-decoration: none;
+			display: inline-block;
+			padding:10px 20px;
+			margin: 10px 0px;
+			border: 1px solid;
+			box-shadow: 2px 2px 1px grey;
+			
+
+
+		}
+		
+		#div1 {
+
+			text-align: center;
+			padding:20px;
+			width: 50%;
+			margin-left: auto;
+			margin-right: auto;
+			border: solid pink 2px;
+			box-shadow: 2px 2px 1px grey; 
+		}
+
+		.clasespan{
+			/*display: block;
+			width: 300px;
+*/
+		}
+		
+		footer {
+
+			text-align: center;
+
+		}
+		a:link {
+			color: white;
+		}
